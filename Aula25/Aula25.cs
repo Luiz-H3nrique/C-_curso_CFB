@@ -1,7 +1,7 @@
 // Passagem por valor e por referência - Curso Programação Completo C# - Aula 25
 using System;
 
-class Aula24
+class Aula25
 {
     static void Main(){
         int num = 10;
